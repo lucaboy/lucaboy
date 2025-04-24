@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca Chianese</h1>
 <h3 align="center">A computer engineer from Italy</h3>
 
-- 🌱 I’m currently learning security governance
-
 - 📫 Contact me at **ing.luca.chianese@gmail.com**
 
 - 📄 Read my resume [here](https://github.com/lucaboy/lucaboy/blob/main/Resume.pdf)
